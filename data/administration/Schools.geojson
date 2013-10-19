@@ -1,0 +1,715 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROBERT L. NICKELS INTERMEDIATE", "DISTRICT": "Byron Center", "GEOADDRESS": "8542 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.719443, 42.809369 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MARSHALL ELEMENTARY SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "1756 64TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.706980, 42.846672 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER CHRISTIAN SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "8705 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.724113, 42.806149 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER CHRISTIAN EAST CAMPUS", "DISTRICT": "Byron Center", "GEOADDRESS": "8840 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.717877, 42.803909 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "STONEY CREEK ELEMENTARY", "DISTRICT": "Comstock Park", "GEOADDRESS": "200 LANTERN DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.674089, 43.046828 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS HIGH SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2211 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.612829, 42.948718 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS MIDDLE SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2425 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.608312, 42.947014 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LAKESIDE ELEMENTARY", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2325 HALL ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.611260, 42.941764 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ADA ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "731 ADA DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.493978, 42.952585 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ADA CHRISTIAN SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "6206 ADA DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.513081, 42.947210 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEE MIDDLE-HIGH SCHOOL", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "1335 LEE ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.700380, 42.931815 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "VISION QUEST ALTERNATIVE HIGH", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "1324 BURTON ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.700240, 42.927802 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODFREY-LEE ADULT & ALTERNATIVE EDUCATION STATION", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "1530 GRANDVILLE AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.686258, 42.936017 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH GODWIN ELEMENTARY", "DISTRICT": "Godwin Heights", "GEOADDRESS": "161 34TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.669452, 42.903170 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "VISTA ACADEMY", "DISTRICT": "Godwin Heights", "GEOADDRESS": "711 32ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.648742, 42.906561 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JACKSON PARK INTERMEDIATE CHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "1331 33RD ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.698832, 42.905062 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NEWHALL MIDDLE SCHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "1840 38TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.711216, 42.893655 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ORIOLE PARK ELEMENTARY", "DISTRICT": "Wyoming", "GEOADDRESS": "1420 40TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.700809, 42.890661 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PARKVIEW ELEMENTARY", "DISTRICT": "Wyoming", "GEOADDRESS": "2075 LEE ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.717187, 42.924484 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER HIGH SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "1450 84TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.700446, 42.809967 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER WEST MIDDLE SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "3390 84TH SW" }, "geometry": { "type": "Point", "coordinates": [ -85.746528, 42.806911 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COUNTRYSIDE ELEMENTARY SCHOOL\/EARLY CHILDHOOD PROGRAMS", "DISTRICT": "Byron Center", "GEOADDRESS": "8162 EASTERN AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.643215, 42.814947 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER CHARTER SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "9930 BURLINGAME AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.702043, 42.784795 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ZION CHRISTIAN SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "7555 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.723897, 42.827564 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALEDONIA HIGH SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9100 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.524301, 42.800074 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DUNCAN LAKE MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9749 DUNCAN LAKE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.523320, 42.786873 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALEDONIA ELEMENTARY", "DISTRICT": "Caledonia", "GEOADDRESS": "9780 DUNCAN LAKE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.520653, 42.787341 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KRAFT MEADOWS MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9260 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.520730, 42.796365 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KRAFT MEADOWS MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9260 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.520497, 42.794808 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KRAFT MEADOWS MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9260 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.524702, 42.794866 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KRAFT MEADOWS MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "9260 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.522599, 42.796443 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DUTTON ELEMENTARY", "DISTRICT": "Caledonia", "GEOADDRESS": "3820 68TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.571177, 42.840069 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KETTLE LAKE ELEMENTARY", "DISTRICT": "Caledonia", "GEOADDRESS": "8451 GARBOW DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.456896, 42.835985 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GLENMOR HIGH SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "230 MAIN ST E SE" }, "geometry": { "type": "Point", "coordinates": [ -85.521045, 42.790461 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CROSS CREEK CHARTER ACADEMY", "DISTRICT": "Caledonia", "GEOADDRESS": "7701 KALAMAZOO AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.625515, 42.825438 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DUTTON CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Caledonia", "GEOADDRESS": "6729 HANNA LAKE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.586904, 42.842576 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DUTTON CHRISTIAN ELEMENTARY", "DISTRICT": "Caledonia", "GEOADDRESS": "6980 HANNA LAKE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.584123, 42.837624 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CEDAR SPRINGS MIDDLE SCHOOL", "DISTRICT": "Cedar Springs", "GEOADDRESS": "4873 16 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.549008, 43.206840 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CREATIVE TECHNOLOGIES ACADEMY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "380 PINE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.560416, 43.225984 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CREATIVE TECHNOLOGIES ACADEMY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "380 PINE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.559850, 43.226701 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CREATIVE TECHNOLOGIES ACADEMY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "380 PINE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.560759, 43.226628 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PILGRIM BIBLE ACADEMY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "359 PINE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.560711, 43.227465 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COMSTOCK PARK HIGH SCHOOL", "DISTRICT": "Comstock Park", "GEOADDRESS": "152 6 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.666277, 43.053825 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PINE ISLAND ELEMENTARY", "DISTRICT": "Comstock Park", "GEOADDRESS": "6097 PINE ISLAND DR NE" }, "geometry": { "type": "Point", "coordinates": [ -85.655957, 43.074552 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GREENRIDGE ELEMENTARY", "DISTRICT": "Comstock Park", "GEOADDRESS": "3841 OAKRIDGE AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.675848, 43.031946 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BRETON DOWNS ELEMENTARY", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2500 BOSTON ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.608097, 42.933675 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEALTHY ELEMENTARY", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2006 WEALTHY ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.619187, 42.951154 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. STEPHEN SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "740 GLADSTONE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.628778, 42.949232 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS EASTERN HIGH SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "5688 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.527762, 43.004110 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS EASTERN MIDDLE SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "5820 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.525017, 43.004659 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL WOODLANDS", "DISTRICT": "Forest Hills", "GEOADDRESS": "370 ALTA DALE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.521523, 42.957102 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL WOODLANDS", "DISTRICT": "Forest Hills", "GEOADDRESS": "370 ALTA DALE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.522836, 42.954596 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GOODWILLIE ENV SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "8400 2 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.461630, 42.998563 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COLLINS ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "4368 HEATHER LN SE" }, "geometry": { "type": "Point", "coordinates": [ -85.561132, 42.959652 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KNAPP FOREST ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "2360 ALCOTT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.564168, 43.004780 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KNAPP FOREST ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "2360 ALCOTT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.564354, 43.005998 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MEADOW BROOK ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "1450 FOREST HILL AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.553654, 42.936179 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ORCHARD VIEW ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "2770 LEFFINGWELL AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.599107, 43.012258 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PINE RIDGE ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "3250 REDFORD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.486938, 42.904716 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "THORNAPPLE ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "6932 BRIDGEWATER DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.497922, 42.937127 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KNAPP CHARTER ACADEMY", "DISTRICT": "Forest Hills", "GEOADDRESS": "1759 LEFFINGWELL AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.602423, 42.993862 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH HILLS CLASSICAL ACADEMY", "DISTRICT": "Forest Hills", "GEOADDRESS": "2777 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.602115, 42.999781 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODFREY ELEMENTARY", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "1920 GODFREY AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.692960, 42.929200 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODFREY LEE EARLY CHILDHOOD CENTER", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "961 JOOSTEN ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.690656, 42.931028 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HOLY NAME OF JESUS", "DISTRICT": "Godfrey Lee", "GEOADDRESS": "1060 CHICAGO DR SW" }, "geometry": { "type": "Point", "coordinates": [ -85.693608, 42.934864 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODWIN HEIGHTS HIGH SCHOOL", "DISTRICT": "Godwin Heights", "GEOADDRESS": "15 36TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.667081, 42.899889 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODWIN HEIGHTS MIDDLE SCHOOL", "DISTRICT": "Godwin Heights", "GEOADDRESS": "3540 DIVISION AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.664037, 42.899081 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST GODWIN ELEMENTARY", "DISTRICT": "Godwin Heights", "GEOADDRESS": "3546 CLYDE PARK AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.683418, 42.899821 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENT CITY HIGH SCHOOL", "DISTRICT": "Kent City", "GEOADDRESS": "355 MAIN ST N NW" }, "geometry": { "type": "Point", "coordinates": [ -85.753497, 43.226034 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENT CITY MIDDLE SCHOOL", "DISTRICT": "Kent City", "GEOADDRESS": "285 MAIN ST N NW" }, "geometry": { "type": "Point", "coordinates": [ -85.753793, 43.224207 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALGOMA CHRISTIAN SCHOOL", "DISTRICT": "Kent City", "GEOADDRESS": "14471 SPARTA AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.712997, 43.229411 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROGERS HIGH SCHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "1350 PRAIRIE PWY SW" }, "geometry": { "type": "Point", "coordinates": [ -85.700242, 42.909462 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WYOMING PARK HIGH SCHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "2125 WRENWOOD ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.718241, 42.917178 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GLADIOLA ELEMENTARY", "DISTRICT": "Wyoming", "GEOADDRESS": "3500 GLADIOLA AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.712912, 42.901052 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HUNTINGTON WOODS", "DISTRICT": "Wyoming", "GEOADDRESS": "4334 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.722145, 42.885988 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "TAFT ELEMENTARY", "DISTRICT": "Wyoming", "GEOADDRESS": "2700 TAFT AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.710922, 42.915309 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST ELEMENTARY", "DISTRICT": "Wyoming", "GEOADDRESS": "3600 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.723322, 42.898294 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "INNOVATIONS ACADEMY", "DISTRICT": "Wyoming", "GEOADDRESS": "2900 CLYDE PARK AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.684712, 42.911358 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HOLY TRINITY EVANGELICAL LUTHERAN", "DISTRICT": "Wyoming", "GEOADDRESS": "4201 BURLINGAME AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.705536, 42.887573 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENT CITY ELEMENTARY", "DISTRICT": "Kent City", "GEOADDRESS": "64 MAIN ST N NW" }, "geometry": { "type": "Point", "coordinates": [ -85.750141, 43.219942 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "VANGUARD ACADEMY", "DISTRICT": "Wyoming", "GEOADDRESS": "5291 BURLINGAME AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.705021, 42.869089 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH KENT ALTERNATIVE HIGH SCHOOL", "DISTRICT": "Comstock Park", "GEOADDRESS": "475 6 MILE RD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.681490, 43.058780 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ADA VISTA ELEMENTARY", "DISTRICT": "Forest Hills", "GEOADDRESS": "7192 BRADFIELD ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.493020, 42.954066 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "AQUINAS COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "1607 ROBINSON RD SE" }, "geometry": { "type": "Point", "coordinates": [ -85.629003, 42.960263 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALVIN COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "106 DIVISION AVE S" }, "geometry": { "type": "Point", "coordinates": [ -85.667453, 42.960563 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALVIN COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "3201 BURTON ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.588560, 42.926450 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL MICHIGAN UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "2851 CHARLEVOIX DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.523919, 42.912048 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COOLEY LAW SCHOOL", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "117 COMMERCE AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.669465, 42.960689 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DAVENPORT COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "415 FULTON ST E" }, "geometry": { "type": "Point", "coordinates": [ -85.658667, 42.963490 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DAVENPORT UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "6191 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.529668, 42.850543 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FERRIS STATE UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "151 FOUNTAIN ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.664265, 42.965857 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRACE BIBLE COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "1011 ALDON ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.689702, 42.919619 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS COMMUNITY COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "143 BOSTWICK AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.666695, 42.965749 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ITT TECHNICAL INSTITUTE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "4020 SPARKS DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.568221, 42.914820 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND VALLEY STATE UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "305 FULTON ST W" }, "geometry": { "type": "Point", "coordinates": [ -85.677181, 42.963803 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND VALLEY STATE UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "440 LAKE MICHIGAN DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.680447, 42.964045 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENDALL COLLEGE OF ART & DESIGN", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "17 FOUNTAIN ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.668626, 42.965610 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MICHIGAN STATE UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "5 LYON ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.668528, 42.967436 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHWOOD UNIVERISTY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "2305 E PARIS AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.569813, 42.921969 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CORNERSTONE UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "1001 E BELTLINE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.593540, 42.982482 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SPRING ARBOR UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "1500 E BELTLINE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.584353, 42.935374 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "UNIVERSITY OF DETROIT MERCY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "220 CHERRY ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.662090, 42.959177 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "UNIVERSITY OF PHOENIX", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "490 CENTER DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.678517, 43.020376 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WESTERN MICHIGAN UNIVERSITY", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "2345 E BELTLINE AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.585116, 42.920123 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BROWN ELEMENTARY", "DISTRICT": "Byron Center", "GEOADDRESS": "8064 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.721888, 42.818106 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KUYPER COLLEGE", "DISTRICT": "UNIVERSITY", "GEOADDRESS": "3333 E BELTLINE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.592315, 43.022258 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER HIGH SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "1450 84TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.701708, 42.811323 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BYRON CENTER HIGH SCHOOL", "DISTRICT": "Byron Center", "GEOADDRESS": "1450 84TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.697303, 42.810110 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MILL CREEK MIDDLE SCHOOL", "DISTRICT": "Comstock Park", "GEOADDRESS": "100 BETTY ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.665959, 43.037164 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CHANDLER WOODS CHARTER ACADEMY", "DISTRICT": "Comstock Park", "GEOADDRESS": "6895 SAMRICK AVE" }, "geometry": { "type": "Point", "coordinates": [ -85.627812, 43.089028 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RIDGE PARK CHARTER ACADEMY", "DISTRICT": "Forest Hills", "GEOADDRESS": "4120 CAMELOT RIDGE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.565476, 42.920577 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GODWIN HEIGHTS ALTERNATIVE HIGH", "DISTRICT": "Godwin Heights", "GEOADDRESS": "711 32ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.666864, 42.903761 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS HIGH SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2211 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.611369, 42.947382 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS HIGH SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2211 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.612183, 42.948066 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS HIGH SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2211 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.612230, 42.947798 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST GRAND RAPIDS HIGH SCHOOL", "DISTRICT": "East Grand Rapids", "GEOADDRESS": "2211 LAKE DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.611663, 42.947987 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EMMONS LAKE ELEMENTARY", "DISTRICT": "Caledonia", "GEOADDRESS": "9100 KRAFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.519825, 42.801590 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CEDAR SPRINGS HIGH SCHOOL", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.538210, 43.217619 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NEW BEGINNINGS HIGH SCHOOL", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.550292, 43.219115 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CEDAR SPRINGS ELEMENTARY BEACH CAMPUS", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.547993, 43.217279 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RED HAWK ELEMENTARY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.546587, 43.218575 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CEDAR SPRINGS ELEMENTARY CEDAR VIEW CAMPUS", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.543648, 43.215105 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CEDAR TRAILS ELEMENTARY", "DISTRICT": "Cedar Springs", "GEOADDRESS": "204 EAST MUSKEGON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.546999, 43.215009 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "THE POTTERS HOUSE HIGH SCHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "2420 NEWPORT ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.726748, 42.915111 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHERN TRAILS", "DISTRICT": "Forest Hills", "GEOADDRESS": "3777 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.579877, 42.985882 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS NORTHERN HIGH SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "3801 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.579273, 42.990167 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS NORTHERN HILLS MIDDLE SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "3775 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.575996, 42.985895 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS CENTRAL HIGH SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "5901 HALL ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.523129, 42.943545 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "FOREST HILLS CENTRAL MIDDLE SCHOOL", "DISTRICT": "Forest Hills", "GEOADDRESS": "5810 ADA DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.523577, 42.947691 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ANCHORPOINT CHRISTIAN", "DISTRICT": "Godwin Heights", "GEOADDRESS": "601 36TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680814, 42.900003 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST MICHIGAN LUTHERAN", "DISTRICT": "Godwin Heights", "GEOADDRESS": "601 36TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680081, 42.899544 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTURY PARK LEARNING CENTER", "DISTRICT": "Grandville", "GEOADDRESS": "5710 KENOWA AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.779625, 42.861201 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "3413 30TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.749425, 42.910746 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRANDVILLE HIGH SCHOOL", "DISTRICT": "Grandville", "GEOADDRESS": "4700 CANAL AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.769941, 42.879407 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "4052 PRAIRIE ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.764272, 42.905268 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CUMMINGS ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "4261 SCHOOLCRAFT ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.773730, 42.960579 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND VIEW ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "3771 52ND ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.756389, 42.871541 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTH ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "3670 NAVAHO ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.754352, 42.894806 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "3777 AARON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.768365, 42.896526 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ADAMS CHRISTIAN SCHOOLS", "DISTRICT": "Grandville", "GEOADDRESS": "5539 BYRON CENTER AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.724645, 42.864356 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRANDVILLE MIDDLE SCHOOL", "DISTRICT": "Grandville", "GEOADDRESS": "3535 WILSON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.765366, 42.900415 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALVIN CHRISTIAN HIGH SCHOOL", "DISTRICT": "Grandville", "GEOADDRESS": "3750 IVANREST AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.741812, 42.896493 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CALVIN CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Grandville", "GEOADDRESS": "3750 IVANRESET AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.741046, 42.897437 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COVENANT CHRISTIAN", "DISTRICT": "Grandville", "GEOADDRESS": "1403 FERNDALE AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.777972, 42.939845 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRANDVILLE CHRISTIAN", "DISTRICT": "Grandville", "GEOADDRESS": "3916 WILSON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.760200, 42.893097 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HOPE PROTESTANT REFORMED CHRISTIAN", "DISTRICT": "Grandville", "GEOADDRESS": "1545 WILSON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.776009, 42.937011 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "TRI-UNITY CHRISTIAN ELEMENTARY", "DISTRICT": "Grandville", "GEOADDRESS": "2220 44TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.720807, 42.883694 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "TRI-UNITY CHRISTIAN MIDDLE\/HIGH", "DISTRICT": "Grandville", "GEOADDRESS": "2100 44TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.718287, 42.882345 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KELLOGGSVILLE HIGH SCHOOL", "DISTRICT": "Kelloggsville", "GEOADDRESS": "23 JEAN ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.666056, 42.877044 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KELLOGGSVILLE EARLY CHILDHOOD CENTER", "DISTRICT": "Kelloggsville", "GEOADDRESS": "977 44TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.688968, 42.885721 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DISCOVERY HIGH SCHOOL", "DISTRICT": "Kelloggsville", "GEOADDRESS": "173 54TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.669200, 42.867760 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. JOHN VIANNEY", "DISTRICT": "Kelloggsville", "GEOADDRESS": "4101 CLYDE PARK AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.686541, 42.889596 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KELLOGGSVILLE MIDDLE SCHOOL", "DISTRICT": "Kelloggsville", "GEOADDRESS": "4650 S DIVISION AVE" }, "geometry": { "type": "Point", "coordinates": [ -85.662410, 42.878919 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST KELLOGGSVILLE ELEMENTARY", "DISTRICT": "Kelloggsville", "GEOADDRESS": "4650 JEFFERSON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.659060, 42.878338 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SE KELLOGGSVILLE ELEMENTARY", "DISTRICT": "Kelloggsville", "GEOADDRESS": "230 52ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.657992, 42.867401 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST KELLOGGSVILLE ELEMENTARY", "DISTRICT": "Kelloggsville", "GEOADDRESS": "4555 MAGNOLIA AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.673524, 42.881299 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENOWA HILLS HIGH SCHOOL", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "3825 HENDERSHOT AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.751005, 43.032905 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENOWA HILLS MIDDLE SCHOOL", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "3950 HENDERSHOT AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.749383, 43.036412 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENOWA HILLS MIDDLE SCHOOL", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "3950 HENDERSHOT AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.747530, 43.034991 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALPINE ELEMENTARY", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "4730 BAUMHOFF AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.718180, 43.049780 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ZINSER ELEMENTARY", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "1234 KINNEY AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.765814, 42.987619 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WALKER CHARTER ACADEMY", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "1801 3 MILE RD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.714381, 43.015911 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "W. MICHIGAN ACADEMY OF ENVIRONMENTAL SCIENCE", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "4417 LEONARD ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.778231, 42.987671 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "W. MICHIGAN ACADEMY OF ENVIRONMENTAL SCIENCE", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "4417 LEONARD ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.780190, 42.987726 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HOLY TRINITY", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "1304 ALPINE CHURCH ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.701475, 43.050249 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL ELEMENTARY", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "4250 3 MILE RD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.774205, 43.014087 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENOWA HILLS EARLY CHILDHOOD CENTER", "DISTRICT": "Kenowa Hills", "GEOADDRESS": "3951 RICHMOND CT NW" }, "geometry": { "type": "Point", "coordinates": [ -85.766501, 43.001979 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CRESTWOOD MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "2674 44TH SHTSE" }, "geometry": { "type": "Point", "coordinates": [ -85.600241, 42.882347 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PINEWOOD MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "2100 60TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.610905, 42.853231 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "VALLEYWOOD MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "1110 50TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.637157, 42.871156 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BROOKWOOD ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "5465 KALAMAZOO AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627138, 42.864386 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CHALLENGER ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "2475 52ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.604726, 42.870139 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EXPLORER ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "2307 68TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.606252, 42.843684 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHWOOD ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "630 66TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.648199, 42.843742 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "TOWNLINE ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "100 60TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.661355, 42.853943 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTH CHRISTIAN HIGH SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "160 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.668404, 42.839379 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. MARK LUTHERAN & PRE-SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "1934 52ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.616213, 42.868149 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BOWEN ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "4479 KALAMAZOO AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627253, 42.882371 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ENDEAVOR ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "5757 EAST PARIS AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.567529, 42.858703 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GLENWOOD ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "912 SILVERLEAF ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.641606, 42.858953 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MEADOWLAWN ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "4939 BURGIS AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.638871, 42.873720 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENTWOOD COMMUNITY EDUCATION", "DISTRICT": "Kentwood", "GEOADDRESS": "100 60TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.662884, 42.854455 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "522 68TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.651123, 42.840043 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST KENTWOOD HIGH SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "6300 KALAMAZOO AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.620726, 42.850188 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST KENTWOOD FRESHMAN CAMPUS", "DISTRICT": "Kentwood", "GEOADDRESS": "2010 60TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.612942, 42.850672 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.665978, 42.841710 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.665974, 42.841528 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.665962, 42.841243 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.666061, 42.842229 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.666308, 42.841064 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.665534, 42.842431 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.666617, 42.842218 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LEGACY CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "67 68TH ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.666678, 42.842022 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DISCOVERY ELEMENTARY", "DISTRICT": "Kentwood", "GEOADDRESS": "2461 60TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.603757, 42.855655 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LIGHTHOUSE ACADEMY", "DISTRICT": "Kentwood", "GEOADDRESS": "3330 36TH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.585384, 42.896967 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST MARK LUTHERAN & PRE-SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "1934 52ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.616738, 42.868566 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LOWELL HIGH SCHOOL", "DISTRICT": "Lowell", "GEOADDRESS": "11700 VERGENNES ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.378195, 42.955185 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALTO ELEMENTARY", "DISTRICT": "Lowell", "GEOADDRESS": "6120 BANCROFT AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.378828, 42.853074 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LOWELL MIDDLE SCHOOL", "DISTRICT": "Lowell", "GEOADDRESS": "700 ELIZABETH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.348692, 42.938615 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CHERRY CREEK ELEMENTARY", "DISTRICT": "Lowell", "GEOADDRESS": "12661 FOREMAN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.355290, 42.941293 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MURRAY LAKE ELEMENTARY", "DISTRICT": "Lowell", "GEOADDRESS": "11901 LALLY ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.374914, 43.025473 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "UNITY HIGH SCHOOL-ALTERNATIVE", "DISTRICT": "Lowell", "GEOADDRESS": "225 HIGH ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.338248, 42.936968 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WITTENBACH WEGE AGRISCIENCE CENTER", "DISTRICT": "Lowell", "GEOADDRESS": "11715 VERGENNES ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.377374, 42.959239 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. PATRICK", "DISTRICT": "Lowell", "GEOADDRESS": "10392 5 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.412205, 43.042047 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BUSHNELL ELEMENTARY", "DISTRICT": "Lowell", "GEOADDRESS": "700 ELIZABETH ST" }, "geometry": { "type": "Point", "coordinates": [ -85.347788, 42.936805 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHVIEW HIGH SCHOOL", "DISTRICT": "Northview", "GEOADDRESS": "4451 HUNSBERGER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.621219, 43.044213 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH OAKVIEW ELEMENTARY", "DISTRICT": "Northview", "GEOADDRESS": "4300 COSTA AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.623203, 43.042262 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CROSSROADS MIDDLE SCHOOL", "DISTRICT": "Northview", "GEOADDRESS": "4400 AMBROSE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.627012, 43.043856 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HIGHLANDS MIDDLE SCHOOL", "DISTRICT": "Northview", "GEOADDRESS": "4641 CHANDY DR NE" }, "geometry": { "type": "Point", "coordinates": [ -85.592688, 43.047555 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST OAKVIEW ELEMENTARY", "DISTRICT": "Northview", "GEOADDRESS": "3940 SUBURBAN SHORES DR NE" }, "geometry": { "type": "Point", "coordinates": [ -85.611578, 43.034910 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST OAKVIEW ELEMENTARY", "DISTRICT": "Northview", "GEOADDRESS": "3781 FITZHUGH AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.642589, 43.032880 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHVIEW EAST CAMPUS HIGH SCHOOL", "DISTRICT": "Northview", "GEOADDRESS": "3801 EAST BELT LINE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.590809, 43.031891 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROCKFORD HIGH SCHOOL FRESHMAN CTR", "DISTRICT": "Rockford", "GEOADDRESS": "4500 KROES ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.558391, 43.091768 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROCKFORD HIGH SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "7064 BREWER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.564326, 43.091217 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROCKFORD HIGH SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "7064 BREWER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.567570, 43.092190 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST ROCKFORD MIDDLE SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "8575 9 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.456399, 43.103862 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST ROCKFORD MIDDLE SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "8575 9 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.454226, 43.103992 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH ROCKFORD MIDDLE SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "397 DIVISION ST E NE" }, "geometry": { "type": "Point", "coordinates": [ -85.549430, 43.119277 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BELMONT ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "6097 BELMONT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.610095, 43.073689 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CANNONSBURG ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "8148 ELM ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.468311, 43.051912 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CRESTWOOD ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "6350 COURTLAND DR NE" }, "geometry": { "type": "Point", "coordinates": [ -85.549532, 43.077950 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LAKES ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "6850 YOUNG AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.469422, 43.087596 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MEADOWRIDGE ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "5401 KIES ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.537019, 43.110194 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PARKSIDE ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "156 LEWIS ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.556770, 43.125197 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RIVER VALLEY ACADEMY", "DISTRICT": "Rockford", "GEOADDRESS": "350 MAIN ST N NE" }, "geometry": { "type": "Point", "coordinates": [ -85.556738, 43.126769 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROGUEWOOD ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "7141 BREWER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.572557, 43.091963 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "VALLEY VIEW ELEMENTARY", "DISTRICT": "Rockford", "GEOADDRESS": "405 SUMMIT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.567422, 43.128944 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ASSUMPTION OF THE BLESSED VIRGIN MARY", "DISTRICT": "Rockford", "GEOADDRESS": "6391 BELMONT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.610009, 43.079063 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "OUR LADY OF CONSOLATION", "DISTRICT": "Rockford", "GEOADDRESS": "4865 11 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.547854, 43.129850 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ROCKFORD CHRISTIAN SCHOOL", "DISTRICT": "Rockford", "GEOADDRESS": "6084 BELDING RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.517358, 43.084125 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ENGLISHVILLE HIGH SCHOOL", "DISTRICT": "Sparta", "GEOADDRESS": "8285 VINTON AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.681091, 43.113892 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SPARTA MIDDLE SCHOOL", "DISTRICT": "Sparta", "GEOADDRESS": "200 UNION ST S NW" }, "geometry": { "type": "Point", "coordinates": [ -85.707913, 43.150987 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "APPLEVIEW ELEMENTARY", "DISTRICT": "Sparta", "GEOADDRESS": "200 UNION ST S NW" }, "geometry": { "type": "Point", "coordinates": [ -85.702430, 43.148631 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RIDGEVIEW ELEMENTARY", "DISTRICT": "Sparta", "GEOADDRESS": "560 W SPARTAN DR" }, "geometry": { "type": "Point", "coordinates": [ -85.713520, 43.148059 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WHITE EARLY CHILDHOOD CTR", "DISTRICT": "Sparta", "GEOADDRESS": "480 STATE ST S NW" }, "geometry": { "type": "Point", "coordinates": [ -85.711454, 43.146753 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SPARTA HIGH SCHOOL", "DISTRICT": "Sparta", "GEOADDRESS": "475 W SPARTAN DR" }, "geometry": { "type": "Point", "coordinates": [ -85.717746, 43.150464 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "POTTERS HOUSE SCHOOL", "DISTRICT": "Wyoming", "GEOADDRESS": "810 VAN RAALTE DR SW" }, "geometry": { "type": "Point", "coordinates": [ -85.686929, 42.936961 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CHRISTIAN LEARNING CENTER", "DISTRICT": "Wyoming", "GEOADDRESS": "4340 BURLINGAME AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.704641, 42.885412 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GR RAPIDS CHILD DISCOVERY CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "640 FIFTH ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.684631, 42.975550 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HOLY SPIRIT", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2222 LAKE MICHIGAN DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.722961, 42.969640 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "OUR SAVIOR LUTHERAN SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1916 RIDGEWOOD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.595914, 42.928492 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "STEPPING STONES MONTESSORI", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1110 COLLEGE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.656491, 42.983295 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "421 FOUNTAIN ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.658591, 42.966113 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CRESTON HIGH - PINNACLE PROGRAM", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1720 PLAINFIELD AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.658672, 42.992930 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CRESTON HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1720 PLAINFIELD AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.660402, 42.992911 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "UNION HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1800 TREEMONT BLVD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.711428, 42.973698 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BURTON MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2133 BUCHANAN AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.672070, 42.924429 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HARRISON MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1440 DAVIS AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.685850, 42.989528 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RIVERSIDE MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "265 ELEANOR ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.662226, 43.004617 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ABERDEEN ELEMENTARY SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "900 ABERDEEN ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.646148, 43.005388 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "C.A. FROST ENVIRONMENTAL SCIENCE ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1460 LAUGHLIN DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.741133, 42.992011 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BROOKSIDE ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2505 MADISON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.659408, 42.918466 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BUCHANON ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1747 BUCHANON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.673114, 42.931813 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BURTON ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2133 BUCHANON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.672139, 42.925242 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTER OF ECONOMICOLOGY @ CITY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1400 FULLER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.637786, 42.989936 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CAMPAU PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "50 ANTOINE ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.669071, 42.947263 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CAMPUS SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1325 FRANKLIN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.635784, 42.949138 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COIT CREATIVE ARTS ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "607 COIT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.665151, 42.974219 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CONGRESS ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "945 LAKE DRIVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.645937, 42.961036 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COVELL ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1501 COVELL AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.718954, 42.991181 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "DICKINSON ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "432 DICKINSON ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.656502, 42.932159 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST LEONARD ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "410 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.658825, 42.983650 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS MONTESSORI", "DISTRICT": "Grand Rapids", "GEOADDRESS": "159 COLLEGE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.657438, 42.966816 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CESAR E. CHAVEZ", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1205 GRANDVILLE AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.683691, 42.941258 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "HARRISON PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1440 DAVIS AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.685828, 42.990207 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MARTIN LUTHER KING JR LEADERSHIP ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "645 LOGAN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.652338, 42.954612 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PARK SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1356 JEFFERSON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.662916, 42.937903 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1353 VAN AUKEN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.632695, 42.904139 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENT HILLS ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "801 SPENCER ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.648600, 42.990308 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GERALD R. FORD MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "831 MADISON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.660024, 42.947105 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MULICK PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1753 ROSEWOOD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627558, 42.931553 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "3375 CHENEY AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.648301, 43.023878 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTH PARK MONTESSORI", "DISTRICT": "Grand Rapids", "GEOADDRESS": "3375 CHENEY AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.648306, 43.023416 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PALMER ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "315 PALMER ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.661042, 42.995031 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SHAWMUT HILLS ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2451 LAKE MICHIGANC DR NW" }, "geometry": { "type": "Point", "coordinates": [ -85.728902, 42.974609 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SHERWOOD PARK GLOBAL STUDIES SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "3859 CHAMBERLAIN AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.620795, 42.893629 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHEAST ACADEMIC CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1248 LOGAN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.638778, 42.954249 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA REGIONAL DIAGNOSTIC CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1353 VAN AUKEN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.633037, 42.904550 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA CENTER AT VAN AUKEN", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1353 VAN AUKEN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.632648, 42.904554 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHWEST COMMUNITY CAMPUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "823 OAKLAND AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680256, 42.949010 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SIBLEY ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "943 SIBLEY ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.691911, 42.967700 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ZOO ENVIRONMENTAL EDUCATION", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1300 FULTON ST W" }, "geometry": { "type": "Point", "coordinates": [ -85.702457, 42.961680 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ADELANTE HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1031 KENSINGTON AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.690165, 42.944227 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1353 VAN AUKEN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.633018, 42.904309 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SHAWNEE PARK ORAL DEAF", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2036 CHESANING DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.615547, 42.926097 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA AT CAMPUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1325 FRANKLIN ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.635773, 42.949367 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST LEONARD EARLY CHILDHOOD CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "410 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.659067, 42.983886 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "RIDGEMOOR EARLY CHILDHOOD CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2555 INVERNESS RD SE" }, "geometry": { "type": "Point", "coordinates": [ -85.603713, 42.925312 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST LEONARD EARLY CHILDHOOD CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1341 LEONARD ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.702216, 42.986264 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "OAKLEIGH ELEMENTARY SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2215 SEVENTH ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.722814, 42.980996 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "MAYFIELD MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "301 MAYFIELD AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.633549, 42.967848 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BELTLINE HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2916 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.595799, 42.993537 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LINCOLN SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "860 CRAHEN AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.558401, 42.978336 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KENT VOCATIONAL OPTIONS & CBOT", "DISTRICT": "Grand Rapids", "GEOADDRESS": "860 CRAHEN AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.558801, 42.978275 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LINCOLN DEVELOPMENTAL CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "860 CRAHEN AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.557361, 42.978461 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WILLIAM C. ABNEY ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1423 FULTON ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.634829, 42.963333 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CATHOLIC CENTRAL HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "319 SHELDON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.667118, 42.957400 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST CATHOLIC HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1711 BRISTOL AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.709660, 42.996547 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALL SAINTS ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2231 DIAMOND AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.645894, 43.003727 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "IMMACULATE HEART OF MARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1951 PLYMOUTH AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.625250, 42.927875 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SACRED HEART OF JESUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "151 GARFIELD AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.697967, 42.960675 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. ANTHONY OF PADUA", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2522 RICHMOND ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.731452, 42.995910 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. PAUL THE APOSTLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2750 BURTON ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.600545, 42.926001 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS CHRISTIAN MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1875 ROSEWOOD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627028, 42.929256 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS CHRISTIAN HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2300 PLYMOUTH AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.622307, 42.921402 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHPOINTE CHRISTIAN SCHOOLS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "3101 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.594603, 42.985809 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NORTHPOINTE CHRISTIAN ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "540 RUSSWOOD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.655987, 43.011471 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS ADVENTIST ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1151 OAKLEIGH AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.728356, 42.985085 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PLYMOUTH CHRISTIAN HIGH", "DISTRICT": "Grand Rapids", "GEOADDRESS": "965 PLYMOUTH AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.626111, 42.980234 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PLYMOUTH CHRISTIAN ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1000 BALL AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.629134, 42.981320 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WEST SIDE CHRISTIAN", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1021 WESTEND AVE NW" }, "geometry": { "type": "Point", "coordinates": [ -85.720343, 42.981437 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST. THOMAS THE APOSTLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1429 WILCOX PARK DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.634109, 42.961250 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "LAKE MICHIGAN ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2428 BURTON ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.607010, 42.925973 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WESTWOOD MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1800 TREMONT BLVD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.707937, 42.973657 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BLANDFORD SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "3145 MILO ST NW" }, "geometry": { "type": "Point", "coordinates": [ -85.745253, 42.994302 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EASTSIDE CHRISTIAN SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2800 MICHIGAN ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.599517, 42.969474 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALGER MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "921 ALGER ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.644458, 42.921050 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CAMPAU PARK ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "50 ANTOINE ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.669026, 42.946972 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CESAR E. CHAVEZ", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1205 GRANDVILLE AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.684364, 42.940921 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COIT CREATIVE ARTS ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "607 COIT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.665620, 42.974235 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "COIT CREATIVE ARTS ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "607 COIT AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.665347, 42.974079 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST LEONARD ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "410 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.659238, 42.984291 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EAST LEONARD ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "410 LEONARD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.658630, 42.983145 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHWEST COMMUNITY CAMPUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "823 OAKLAND AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680206, 42.949633 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHWEST COMMUNITY CAMPUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "823 OAKLAND AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680513, 42.948491 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHWEST COMMUNITY CAMPUS", "DISTRICT": "Grand Rapids", "GEOADDRESS": "823 OAKLAND AVE SW" }, "geometry": { "type": "Point", "coordinates": [ -85.680704, 42.949236 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "BELTLINE HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2916 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.594992, 42.993573 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GERALD R. FORD MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "831 MADISON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.659444, 42.947260 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GERALD R. FORD MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "831 MADISON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.659720, 42.947287 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SOUTHEAST CAREER PATHWAYS SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1356 JEFFERSON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.662896, 42.937493 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CITY HIGH-MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1400 FULLER AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.637830, 42.990993 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ALL SAINTS ACADEMY - MIDDLE SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1110 4 MILE RD NE" }, "geometry": { "type": "Point", "coordinates": [ -85.641362, 43.026956 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "PINE GROVE LEARNING CENTER", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2101 52ND ST SW" }, "geometry": { "type": "Point", "coordinates": [ -85.715417, 42.871136 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "SHAWNEE MATH\/SCIENCE\/TECHNOLOGY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2036 CHESANING DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.616021, 42.926285 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "KEN-O-SHA AT WELLERWOOD", "DISTRICT": "Grand Rapids", "GEOADDRESS": "800 WELLERWOOD ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.650055, 43.018799 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "NEW BRANCHES CHARTER ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "256 ALGER ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.660031, 42.919877 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WELLSPRING PREPARATORY HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1031 PAGE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.643559, 42.987628 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WELLSPRING PREPARATORY HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1031 PAGE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.642998, 42.987022 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "WELLSPRING PREPARATORY HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1031 PAGE ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.643834, 42.987414 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RIVER PREPARATORY HIGH SCHOOL", "DISTRICT": "Kentwood", "GEOADDRESS": "624 52ND ST SE" }, "geometry": { "type": "Point", "coordinates": [ -85.649187, 42.868296 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS UNIVERSITY PREP ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "111 COLLEGE AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.657394, 42.965792 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "ST JOHNS HOME", "DISTRICT": "Juvenile", "GEOADDRESS": "2355 KNAPP ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.611780, 43.001150 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGAMS WAALKES DETENTION", "DISTRICT": "Juvenile", "GEOADDRESS": "1450 CEDAR ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.633077, 42.982062 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGRAM - BETHANY", "DISTRICT": "Juvenile", "GEOADDRESS": "901 EASTERN AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.650998, 42.979523 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGRAMS DAY TREATMENT", "DISTRICT": "Juvenile", "GEOADDRESS": "1450 CEDAR ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.632181, 42.982064 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGRAMS KENT COUNTY CORRECTIONAL FACILITY", "DISTRICT": "Juvenile", "GEOADDRESS": "701 BALL AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.633204, 42.975120 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGRAMS KENTFIELDS PROGRAM", "DISTRICT": "Juvenile", "GEOADDRESS": "811 JEFFERSON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.664418, 42.947948 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "JUVENILE JUSTICE PROGRAMS THE HAVEN", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1450 CEDAR ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.632604, 42.981393 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "EXCEL CHARTER ACADEMY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "4201 BRETON AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.608587, 42.889408 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "GRAND RAPIDS CHRISTIAN ELEMENTARY", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1050 IROQUOIS DR SE" }, "geometry": { "type": "Point", "coordinates": [ -85.632157, 42.943759 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "IMMANUEL-ST. JAMES LUTHERAN", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2066 OAKWOOD AVE NE" }, "geometry": { "type": "Point", "coordinates": [ -85.659158, 43.000602 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "CENTRAL HIGH - PINNACLE PROGRAM", "DISTRICT": "Grand Rapids", "GEOADDRESS": "421 FOUNTAIN ST NE" }, "geometry": { "type": "Point", "coordinates": [ -85.658372, 42.966972 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "OTTAWA HILLS HIGH SCHOOL", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2055 ROSEWOOD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627440, 42.925736 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "OTTAWA HILLS - PINNACLE PROGRAM", "DISTRICT": "Grand Rapids", "GEOADDRESS": "2055 ROSEWOOD AVE SE" }, "geometry": { "type": "Point", "coordinates": [ -85.627726, 42.926644 ] } }
+,
+{ "type": "Feature", "properties": { "SCHOOLNAME": "UNION HIGH - PINNACLE PROGRAM", "DISTRICT": "Grand Rapids", "GEOADDRESS": "1800 TREEMONT BLVD NW" }, "geometry": { "type": "Point", "coordinates": [ -85.711946, 42.974679 ] } }
+
+]
+}
