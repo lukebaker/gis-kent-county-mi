@@ -1,0 +1,26 @@
+language: node_js
+node_js:
+    - '0.10'
+before_install:
+    - sudo apt-get install -qq gdal-bin
+script: ./download-convert.sh
+env:
+  global:
+    secure: Lccg9jrKuno0JpFbDIrKnJC+5RjFjvjpRoV7869a4zJzdSEQlHSigrtz0uldYxQhMP+kR15s0ccyl7FeIIgauH+r97+TpvzmXk9PaSo36Qp4o3Wnn0k656Nb+DBBH8SsWqxV3VBmzzLdIw0eKRGDVJRUb5sZ0rXKh/dnElU/1mU=
+after_success:
+    - openssl aes-256-cbc -k "$SECRETKEY" -in .gis-kent-county-mi_rsa.enc -d -a -out gis-kent-county-mi_rsa
+    - git config user.email "lukebaker@gmail.com"
+    - git config user.name "Luke Baker"
+    - git config push.default simple
+    - git checkout $TRAVIS_BRANCH
+    - git commit -a -m 'auto update [ci skip]'
+    - echo "Host github.com" >> ~/.ssh/config
+    - echo "   StrictHostKeyChecking no" >> ~/.ssh/config
+    - echo "   CheckHostIP no" >> ~/.ssh/config
+    - echo "   UserKnownHostsFile=/dev/null" >> ~/.ssh/config
+    - echo "   IdentityFile $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa" >> ~/.ssh/config
+    - cat ~/.ssh/config
+    - chmod 600 $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa
+    - ls -l $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa
+    - git remote add deploy git@github.com:lukebaker/gis-kent-county-mi.git
+    - git push deploy $TRAVIS_BRANCH
