@@ -1,0 +1,7 @@
+{
+    "name": "gis-kent-county-mi",
+    "author": "Luke Baker <lukebaker@gmail.com>",
+    "dependencies" : {
+        "topojson" : "1.4.x"
+    }
+}
