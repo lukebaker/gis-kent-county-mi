@@ -19,8 +19,6 @@ after_success:
     - echo "   CheckHostIP no" >> ~/.ssh/config
     - echo "   UserKnownHostsFile=/dev/null" >> ~/.ssh/config
     - echo "   IdentityFile $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa" >> ~/.ssh/config
-    - cat ~/.ssh/config
     - chmod 600 $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa
-    - ls -l $TRAVIS_BUILD_DIR/gis-kent-county-mi_rsa
     - git remote add deploy git@github.com:lukebaker/gis-kent-county-mi.git
     - git push deploy $TRAVIS_BRANCH
