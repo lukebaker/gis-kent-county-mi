@@ -14,7 +14,7 @@ while read url
 do
   downloadname=$(basename $url)
   noext=$(basename $downloadname .zip)
-  curl -z "$data_last_updated" -Lsk $url -o "$downloadname"
+  curl --sslv3 -z "$data_last_updated" -Lsk $url -o "$downloadname"
   if [ -f $downloadname ]; then
     unzip -u $downloadname
     ogr2ogr -f GeoJSON -t_srs urn:ogc:def:crs:OGC:1.3:CRS84 $noext.geojson $noext.shp
